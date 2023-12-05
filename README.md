@@ -1,23 +1,55 @@
 [@mdsaqlain1]
 
-<b>About Me</b><br>
-Hello there! Welcome to my GitHub profile. I'm a passionate Full Stack Web Developer with a strong interest in learning and exploring the world of technology. As a 2nd-year Information Science Engineering student, I've been actively honing my skills and knowledge in the field over the past year.
-<br><br>
-<b>Background</b><br>
-In the realm of Full Stack Web Development, I've been focusing on mastering <b>Java</b> as my primary programming language, and I'm currently in the process of enhancing my web development skills various courses and documentations. The journey so far has been incredible, and I'm excited to delve deeper into building dynamic and interactive web applications
-<br><br>
-I strongly believe in the power of collaboration and the open-source community. Contributing to various projects on GitHub not only helps build my skills but also allows me to gain valuable knowledge in the field. 
-<br><br>
-<b>Connect with Me</b><br>
-I'm eager to connect with fellow developers, learners, and potential collaborators. You can reach out to me through:
-<br>
-Email: md.saqlain3100@gmail.com<br>
-LinkedIn: https://www.linkedin.com/in/mdsaqlain1/<br>
-Twitter: @mdsaqlain1_<br><br>
-Let's connect, share ideas, and create something incredible together in the world of Full Stack Web Development and beyond! As I work towards my goal of becoming a Full Stack Developer and eventually a DevOps engineer, your support and collaboration will be invaluable.
+<h1 align="left">Hey, I am Mohammed Saqlain 👋🏻</h1>
 
+###
 
-<!---
-mdsaqlain1/mdsaqlain1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"># Frontend Developer 💻<br><br>Passionate about crafting engaging and user-friendly web experiences, I specialize in frontend development. With a strong command of HTML, CSS, and JavaScript, I bring designs to life, ensuring seamless and visually appealing interfaces. My toolkit includes the powerful Tailwind CSS framework, allowing me to create efficient and responsive layouts.Let's build user-centric and dynamic web applications together!</p>
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="left">Social's</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mdsaqlain1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/mdsaqlain1_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="md.saqlain3100@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.com/channels/@mdsaqlain1" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href=" paypal.me/mdsaqlain11 " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+  </a>
+</div>
+
+###
