@@ -1,5 +1,3 @@
-[@mdsaqlain1]
-
 <h1 align="left">Hey, I am Mohammed Saqlain 👋🏻</h1>
 
 ###
