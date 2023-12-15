@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"># Frontend Developer 💻<br><br>Passionate about crafting engaging and user-friendly web experiences, I specialize in frontend development. With a strong command of HTML, CSS, and JavaScript, I bring designs to life, ensuring seamless and visually appealing interfaces. My toolkit includes the powerful Tailwind CSS framework, allowing me to create efficient and responsive layouts.Let's build user-centric and dynamic web applications together!</p>
+<p align="left"># Frontend Developer 💻<br><br></p>
 
 ###
 
