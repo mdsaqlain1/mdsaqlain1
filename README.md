@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"># Frontend Developer 💻<br><br></p>
+<p align="left"># Full Stack Developer 💻<br><br></p>
 
 ###
 
